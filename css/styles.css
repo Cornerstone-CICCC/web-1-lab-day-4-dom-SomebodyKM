@@ -51,5 +51,20 @@ body {
   flex: 1;
   padding: 0.25rem;
 }
+.container #employees thead {
+  background-color: #ccc;
+}
+.container #employees thead th {
+  padding: 0 15px;
+}
+.container #employees tbody tr {
+  background-color: #eee;
+}
+.container #employees tbody tr td {
+  padding: 20px;
+}
+.container #employees tbody tr td img {
+  height: 50px;
+}
 
 /*# sourceMappingURL=styles.css.map */
